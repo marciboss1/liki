@@ -4,7 +4,7 @@
 }
 
 body {
-  color: white;
+  color: blue;
   font-family: sans-serif;
 }
 
@@ -15,7 +15,7 @@ body {
 }
 
 header {
-  background-color: #f1c40f;
+  background-color: olivedrab;
   display: grid;
   place-content: center center;
 }
@@ -27,7 +27,7 @@ h1 {
 }
 
 footer {
-  background-color: #3498db;
+  background-color: olive;
   display: grid;
   grid-template-columns: repeat(7, minmax(40px, auto));
   grid-auto-rows: 60px;
